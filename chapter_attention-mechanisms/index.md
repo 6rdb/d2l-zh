@@ -37,4 +37,4 @@ multihead-attention
 self-attention-and-positional-encoding
 transformer
 ```
-2026-04-03  学习了注意力机制入门
+2026-04-03 ，学习了注意力机制入门
