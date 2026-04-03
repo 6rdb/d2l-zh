@@ -37,3 +37,4 @@ multihead-attention
 self-attention-and-positional-encoding
 transformer
 ```
+2026-04-03 第二次打卡GitHub 学习注意力机制入门
