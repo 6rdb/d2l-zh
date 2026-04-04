@@ -29,12 +29,12 @@ Bahdanau注意力是深度学习中的具有突破性价值的注意力模型，
 ```toc
 :maxdepth: 2
 
-attention-cues
-nadaraya-waston
-attention-scoring-functions
-bahdanau-attention
-multihead-attention
-self-attention-and-positional-encoding
-transformer
+attention-cues                                                      #注意力提示
+nadaraya-waston                                                  #Nadaraya-Watson核回归
+attention-scoring-functions                                #注意力评分函数
+bahdanau-attention                                              #Bahdanau注意力
+multihead-attention                                              #多头注意力
+self-attention-and-positional-encoding            #自注意力与位置编码
+transformer                                                             #Transformer架构 
 ```
 2026-04-03 ，学习了注意力机制入门
