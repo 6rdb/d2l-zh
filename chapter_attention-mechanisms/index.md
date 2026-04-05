@@ -38,3 +38,5 @@ self-attention-and-positional-encoding            #自注意力与位置编码
 transformer                                                             #Transformer架构 
 ```
 2026-04-03 ，学习了注意力机制入门
+
+2026.04.05 打卡，今日完成内容修改与优化，修复细节问题，完善代码逻辑，持续学习中。
