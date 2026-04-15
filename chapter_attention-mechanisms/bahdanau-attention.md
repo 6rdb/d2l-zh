@@ -43,12 +43,17 @@ $$\mathbf{c}_{t'} = \sum_{t=1}^T \alpha(\mathbf{s}_{t' - 1}, \mathbf{h}_t) \math
 ![一个带有Bahdanau注意力的循环神经网络编码器-解码器模型](../img/seq2seq-attention-details.svg)
 :label:`fig_s2s_attention_details`
 
-```{.python .input}
+```# 导入d2l库（动手学深度学习）的mxnet版本工具函数
 from d2l import mxnet as d2l
+
+# 导入mxnet的numpy兼容接口np，以及扩展工具npx
 from mxnet import np, npx
+
+# 导入mxnet的Gluon接口中的循环神经网络层和神经网络层
 from mxnet.gluon import rnn, nn
+
+# 启用mxnet的numpy兼容模式（必须执行，否则np无法正常使用）
 npx.set_np()
-```
 
 ```{.python .input}
 #@tab pytorch
