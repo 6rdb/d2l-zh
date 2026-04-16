@@ -55,18 +55,10 @@ from mxnet.gluon import rnn, nn
 # 启用mxnet的numpy兼容模式（必须执行，否则np无法正常使用）
 npx.set_np()
 
-```{.python .input}
-#@tab pytorch
-from d2l import torch as d2l
-import torch
-from torch import nn
-```
-
-```{.python .input}
-#@tab tensorflow
-from d2l import tensorflow as d2l
-import tensorflow as tf
-```
+#@tab pytorch  # 标记当前代码块使用 PyTorch 框架
+from d2l import torch as d2l  # 导入《动手学深度学习》配套的工具库，简化绘图、数据加载等操作
+import torch  # 导入 PyTorch 深度学习框架核心库
+from torch import nn  # 从 PyTorch 中导入神经网络模块（用于搭建模型、定义层）
 
 ```{.python .input}
 #@tab paddle
