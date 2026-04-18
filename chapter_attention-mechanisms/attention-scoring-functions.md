@@ -40,14 +40,16 @@ $$\alpha(\mathbf{q}, \mathbf{k}_i) = \mathrm{softmax}(a(\mathbf{q}, \mathbf{k}_i
 正如上图所示，选择不同的注意力评分函数$a$会导致不同的注意力汇聚操作。
 本节将介绍两个流行的评分函数，稍后将用他们来实现更复杂的注意力机制。
 
-```{.python .input}
+# 导入数学函数库（用于三角函数、指数、对数、平方根等计算）
 import math
+# 导入《动手学深度学习》配套工具库（MXNet 版），提供绘图、数据加载、训练工具
 from d2l import mxnet as d2l
+# 导入 MXNet 的 numpy 兼容模块，用法和 NumPy 几乎一致，方便数值计算
 from mxnet import np, npx
+# 导入 MXNet 的 Gluon 神经网络高层 API，用于搭建模型、定义网络层
 from mxnet.gluon import nn
+# 设置 MXNet 使用 numpy 兼容模式，让代码书写更简洁、更接近原生 NumPy
 npx.set_np()
-```
-
 ```{.python .input}
 #@tab pytorch
 from d2l import torch as d2l
