@@ -50,14 +50,12 @@ from mxnet import np, npx
 from mxnet.gluon import nn
 # 设置 MXNet 使用 numpy 兼容模式，让代码书写更简洁、更接近原生 NumPy
 npx.set_np()
-```{.python .input}
-#@tab pytorch
-from d2l import torch as d2l
-import math
-import torch
-from torch import nn
-```
 
+#@tab pytorch        # 标记当前代码块使用 PyTorch 框架
+from d2l import torch as d2l  # 导入《动手学深度学习》PyTorch版工具库
+import math                    # 导入数学库，用于 sqrt、cos、sin 等计算
+import torch                   # 导入 PyTorch 主库
+from torch import nn           # 导入 PyTorch 神经网络模块
 ```{.python .input}
 #@tab tensorflow
 from d2l import tensorflow as d2l
