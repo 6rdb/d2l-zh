@@ -1,58 +1,88 @@
 # Attention Cues
+# 注意力提示 / 注意力线索
 :label:`sec_attention-cues`
 
 Thank you for your attention
 to this book.
+# 感谢你将注意力投入到本书中。
 Attention is a scarce resource:
+# 注意力是一种稀缺资源：
 at the moment
 you are reading this book
 and ignoring the rest.
+# 此刻你正在阅读本书，而忽略了其他一切。
 Thus, similar to money,
 your attention is being paid with an opportunity cost.
+# 因此，就像金钱一样，你付出注意力的同时，也承担了机会成本。
 To ensure that your investment of attention
 right now is worthwhile,
+# 为了让你当下投入的注意力物有所值，
 we have been highly motivated to pay our attention carefully
 to produce a nice book.
+# 我们也投入了大量心血，用心打磨，力求写出一本好书。
 Attention
 is the keystone in the arch of life and
 holds the key to any work's exceptionalism.
+# 注意力是生命这座拱门的基石，
+# 也是让任何工作脱颖而出的关键。
 
 
 Since economics studies the allocation of scarce resources,
+# 经济学研究的正是稀缺资源的配置问题，
 we are
 in the era of the attention economy,
+# 而我们正身处**注意力经济**时代，
 where human attention is treated as a limited, valuable, and scarce commodity
 that can be exchanged.
+# 在这个时代，人类的注意力被视为一种有限、宝贵、稀缺且可交易的商品。
 Numerous business models have been
 developed to capitalize on it.
+# 大量商业模式都围绕着变现注意力而建立。
 On music or video streaming services,
+# 在音乐或视频流媒体平台上，
 we either pay attention to their ads
 or pay money to hide them.
+# 我们要么付出注意力观看广告，要么花钱屏蔽广告。
 For growth in the world of online games,
+# 在网络游戏中想要变强，
 we either pay attention to
 participate in battles, which attract new gamers,
+# 我们要么投入精力参与对战（从而吸引新玩家），
 or pay money to instantly become powerful.
+# 要么直接花钱快速变强。
 Nothing comes for free.
+# 天下没有免费的午餐。
 
 All in all,
+# 总而言之，
 information in our environment is not scarce,
 attention is.
+# 环境中的信息并不稀缺，稀缺的是注意力。
 When inspecting a visual scene,
+# 当我们观察一个视觉场景时，
 our optic nerve receives information
 at the order of $10^8$ bits per second,
+# 视觉神经每秒接收的信息量约为 10^8 比特级别，
 far exceeding what our brain can fully process.
+# 这远远超出了大脑能够完全处理的极限。
 Fortunately,
+# 幸运的是，
 our ancestors had learned from experience (also known as data)
-that *not all sensory inputs are created equal*.
+that not all sensory inputs are created equal.
+# 我们的祖先从经验（也就是数据）中得知：
+# 并非所有感官输入都同等重要。
 Throughout human history,
+# 在整个人类历史中，
 the capability of directing attention
 to only a fraction of information of interest
+# 只将注意力集中在一小部分感兴趣信息上的能力，
 has enabled our brain
 to allocate resources more smartly
+# 让大脑能够更聪明地分配资源，
 to survive, to grow, and to socialize,
+# 从而得以生存、繁衍和社交，
 such as detecting predators, preys, and mates.
-
-
+# 例如发现天敌、猎物和配偶。
 
 ## Attention Cues in Biology
 
