@@ -51,14 +51,22 @@ $$\mathbf W_o \begin{bmatrix}\mathbf h_1\\\vdots\\\mathbf h_h\end{bmatrix} \in \
 基于这种设计，每个头都可能会关注输入的不同部分，
 可以表示比简单加权平均值更复杂的函数。
 
-```{.python .input}
+# 动手学深度学习 d2l 库（MXNet 版）
 from d2l import mxnet as d2l
-import math
-from mxnet import autograd, np, npx
-from mxnet.gluon import nn
-npx.set_np()
-```
 
+# 导入数学函数库，用于后续计算（如指数、三角函数等）
+import math
+
+# 自动求导（autograd）：MXNet 用来计算梯度的核心模块
+# np：MXNet 的 numpy 兼容接口
+# npx：MXNet 扩展工具
+from mxnet import autograd, np, npx
+
+# 导入 MXNet 的神经网络模块，用来搭建层和模型
+from mxnet.gluon import nn
+
+# 开启 MXNet 的 numpy 兼容模式，让代码写法更接近标准 NumPy
+npx.set_np()
 ```{.python .input}
 #@tab pytorch
 from d2l import torch as d2l
